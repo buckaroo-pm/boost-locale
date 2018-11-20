@@ -1,0 +1,29 @@
+cxx_binary(
+  name = 'boundary', 
+  srcs = [
+    'boundary.cpp', 
+  ], 
+  deps = [
+    '//:locale', 
+  ], 
+)
+
+cxx_binary(
+  name = 'hello', 
+  srcs = [
+    'hello.cpp', 
+  ], 
+  deps = [
+    '//:locale', 
+  ], 
+)
+
+cxx_binary(
+  name = 'whello', 
+  srcs = [
+    'whello.cpp', 
+  ], 
+  deps = [
+    '//:locale', 
+  ], 
+)
