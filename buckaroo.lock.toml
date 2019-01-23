@@ -50,7 +50,7 @@ revision = "6587b84e4fb0711bd7d0930b415ca7937e72021b"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "ea0eab9a8cf538aa81a7d53f1762a5ff7e628e73"
+revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -222,7 +222,7 @@ revision = "e8cb7bc76c55f02a24f824fecf5cdf0629dc3aa4"
 
 [lock."github.com/buckaroo-pm/boost-unordered"]
 versions = [ "branch=master" ]
-revision = "7fe9837e937e161a537fcb869a678bfe54d18b2c"
+revision = "9a7c3874ccb07bdb26fd1e79905aeadb53488b7a"
 
 [lock."github.com/buckaroo-pm/boost-utility"]
 versions = [ "branch=master" ]
