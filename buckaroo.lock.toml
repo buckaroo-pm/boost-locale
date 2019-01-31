@@ -54,7 +54,7 @@ revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "417f80abf86251b29609a9747dae7756236699aa"
+revision = "3e3eee250bf8eb15855cbf758388046e9a2dbc8c"
 
 [lock."github.com/buckaroo-pm/boost-atomic"]
 versions = [ "branch=master" ]
@@ -86,7 +86,7 @@ revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "82480080750b32b3ef2e3f12157b5c556ae35c0d"
+revision = "4f59c5f06f11cd029a85d932ef51b9d511761f49"
 
 [lock."github.com/buckaroo-pm/boost-date_time"]
 versions = [ "branch=master" ]
@@ -158,7 +158,7 @@ revision = "9c3529ad17d35171ffaa689ebfee9f21ce616129"
 
 [lock."github.com/buckaroo-pm/boost-predef"]
 versions = [ "branch=master" ]
-revision = "73def0812b7235e0312079c729342787819bf1d5"
+revision = "c497db2c821492a2d6b0a16dc7f4edcec8c3aec6"
 
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
