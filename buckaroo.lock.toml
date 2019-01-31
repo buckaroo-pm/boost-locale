@@ -54,7 +54,7 @@ revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "3e3eee250bf8eb15855cbf758388046e9a2dbc8c"
+revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-atomic"]
 versions = [ "branch=master" ]
@@ -62,11 +62,11 @@ revision = "54e906eaa9d71c68bd0d990727f060e81389f3cb"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
-revision = "783ec0afe46d65f8cfdb558e16f25adc02797b3c"
+revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]
-revision = "d9135ae23f09a15931dbd15a99324dfe44954aba"
+revision = "0d9de7ea384e6e70d788667bb78c94f2cfe8949a"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
@@ -146,7 +146,7 @@ revision = "6493fcda0f5cd2ee595346ca48ff495db9fa74d5"
 
 [lock."github.com/buckaroo-pm/boost-multiprecision"]
 versions = [ "branch=master" ]
-revision = "466fe3d1bec248781b4b26d98ee6cf0f57d92017"
+revision = "d931e50f7e9eb5d846aab6dff882728802d84361"
 
 [lock."github.com/buckaroo-pm/boost-numeric_conversion"]
 versions = [ "branch=master" ]
@@ -202,7 +202,7 @@ revision = "205019c90a5e5e839fecabe65c3424f3a5887c49"
 
 [lock."github.com/buckaroo-pm/boost-thread"]
 versions = [ "branch=master" ]
-revision = "aeccb01c5ddaaec679f3c9651c0bc6dbdb7d2728"
+revision = "1ba5716fd1d093c99534c68bfff3aa95ba1f44e7"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
