@@ -114,7 +114,7 @@ revision = "a241f4f12c8b0e0f1d5d803eb5404c5d67ea254b"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
-revision = "5badcf5b232a15e89d0701bef687ffbe70398696"
+revision = "43c7296e8513fcb9cda6e88396e863995c0d0cb5"
 
 [lock."github.com/buckaroo-pm/boost-intrusive"]
 versions = [ "branch=master" ]
@@ -126,7 +126,7 @@ revision = "70c28ebaa83b1fd6907db8f542d7be8abc6835b4"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
-revision = "c84fc34d0f6386edb15b0cb854a12864b6f15232"
+revision = "427d132236d5048d64e3a861e29e943c13ce7059"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
@@ -186,7 +186,7 @@ revision = "9e8d936f28b7a384aa6988875967bc43ca665286"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
-revision = "7a147d3e6bead2fba47b60365fe1ae0c308768d5"
+revision = "894f4bae92fd47f51fa15a13247905195f914118"
 
 [lock."github.com/buckaroo-pm/boost-static_assert"]
 versions = [ "branch=master" ]
