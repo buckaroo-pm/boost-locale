@@ -62,7 +62,7 @@ revision = "54e906eaa9d71c68bd0d990727f060e81389f3cb"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
-revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
+revision = "cfad39eb7381d02a0914f1c939140aa4f8195a1e"
 
 [lock."github.com/buckaroo-pm/boost-chrono"]
 versions = [ "branch=master" ]
@@ -110,7 +110,7 @@ revision = "fd648b89c18430fa4cb3622018cc99ba99412ffe"
 
 [lock."github.com/buckaroo-pm/boost-functional"]
 versions = [ "branch=master" ]
-revision = "a241f4f12c8b0e0f1d5d803eb5404c5d67ea254b"
+revision = "c0c241d85df00f7f081180aec6711812136be89e"
 
 [lock."github.com/buckaroo-pm/boost-integer"]
 versions = [ "branch=master" ]
