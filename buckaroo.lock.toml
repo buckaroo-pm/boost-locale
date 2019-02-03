@@ -202,7 +202,7 @@ revision = "205019c90a5e5e839fecabe65c3424f3a5887c49"
 
 [lock."github.com/buckaroo-pm/boost-thread"]
 versions = [ "branch=master" ]
-revision = "1ba5716fd1d093c99534c68bfff3aa95ba1f44e7"
+revision = "8d90d717bfaf52f39b355c1a530ad08ae0404bf0"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
@@ -246,7 +246,7 @@ revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
-revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
+revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
